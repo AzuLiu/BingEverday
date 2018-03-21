@@ -16,4 +16,4 @@ This web spider is coded by python
 
 
 
-我想将Bing首页上的壁纸每天都自动爬取。
+将Bing首页上的壁纸每天都自动爬取。
